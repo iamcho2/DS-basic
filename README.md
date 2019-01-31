@@ -7,6 +7,8 @@
 
 Introduction to Data Structures Using C
 
+<br>
+
 ## 목차
 
 ### [1. 자료구조와 알고리즘의 이해](https://github.com/iamcho2/DS-basic/blob/master/chap1.md)
@@ -36,3 +38,9 @@ Introduction to Data Structures Using C
 [13. 테이블과 해쉬]()
 
 [14. 그래프]()
+
+<br>
+
+## 문제풀이
+
+### [문제풀이](https://github.com/iamcho2/DS-basic/blob/master/problem-solving.md)
