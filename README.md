@@ -9,7 +9,7 @@ Introduction to Data Structures Using C
 
 ## 목차
 
-### [1. 자료구조와 알고리즘의 이해]()
+### [1. 자료구조와 알고리즘의 이해](https://github.com/iamcho2/DS-basic/blob/master/chap1.md)
 
 [2. 재귀]()
 
